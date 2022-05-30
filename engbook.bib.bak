@@ -1,0 +1,35 @@
+@Book{1130282270643311616,
+  author    = {Peskin, Michael Edward},
+  publisher = {Oxford University Press},
+  title     = {Concepts of elementary particle physics},
+  year      = {2019},
+  series    = {Oxford master series in particle physics, astrophysics, and cosmology},
+}
+
+@Book{1130282271644037248,
+  author    = {Konishi, Kenichi and Paffuti, G.},
+  publisher = {Oxford University Press},
+  title     = {Quantum mechanics : a new introduction},
+  year      = {2009},
+}
+
+@Book{BB15356819,
+  author    = {Schwartz, Matthew Dean},
+  publisher = {Cambridge University Press},
+  title     = {Quantum field theory and the standard model},
+  year      = {2014},
+}
+
+@Book{costello_gwilliam_2016,
+  author     = {Costello, Kevin and Gwilliam, Owen},
+  publisher  = {Cambridge University Press},
+  title      = {Factorization Algebras in Quantum Field Theory},
+  year       = {2016},
+  series     = {New Mathematical Monographs},
+  volume     = {1},
+  collection = {New Mathematical Monographs},
+  doi        = {10.1017/9781316678626},
+  place      = {Cambridge},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

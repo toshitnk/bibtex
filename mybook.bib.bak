@@ -1,0 +1,42 @@
+@book{ rika,
+  author    = "東京天文台 and 国立天文台",
+  title     = "理科年表",
+  publisher = "東京天文臺",
+  year      = "2020",
+}
+
+@Book{BC01962771,
+  author    = {桜井, 純 and Napolitano, Jim and 桜井, 明夫},
+  publisher = {吉岡書店},
+  title     = {現代の量子力学},
+  year      = {2015},
+  edition   = {第2版},
+  number    = {109},
+  series    = {物理学叢書 / 小谷正雄 [ほか] 編},
+}
+
+@Book{BN10398292,
+  author    = {猪木, 慶治 and 川合, 光 and 講談社サイエンティフィク},
+  publisher = {講談社},
+  title     = {量子力学},
+  year      = {1994},
+}
+
+@Book{BA66765545,
+  author    = {清水, 明},
+  publisher = {サイエンス社},
+  title     = {量子論の基礎 : その本質のやさしい理解のために},
+  year      = {2004},
+  edition   = {新版},
+  number    = {別巻2},
+  series    = {新物理学ライブラリ},
+}
+
+@Book{BN0611143X,
+  author    = {砂川, 重信},
+  publisher = {岩波書店},
+  title     = {量子力学},
+  year      = {1991},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

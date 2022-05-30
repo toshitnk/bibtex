@@ -1,0 +1,23 @@
+@Article{Cooley1965AnAF,
+  author  = {James W. Cooley and John W. Tukey},
+  journal = {Mathematics of Computation},
+  title   = {An algorithm for the machine calculation of complex Fourier series},
+  year    = {1965},
+  pages   = {297-301},
+  volume  = {19},
+  comment = {FFT},
+  doi     = {https://doi.org/10.1090/S0025-5718-1965-0178586-1},
+}
+
+@Article{Ikeda2008,
+  author  = {池田 幹男},
+  journal = {四日市大学論集},
+  title   = {混合基数高速フーリエ変換の計算量},
+  year    = {2008},
+  number  = {1},
+  pages   = {85-94},
+  volume  = {21},
+  doi     = {10.24584/jyu.21.1_85},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

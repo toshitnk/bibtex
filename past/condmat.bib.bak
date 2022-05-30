@@ -1,0 +1,15 @@
+@Article{Chevalier_2022,
+  author    = {Cameron Chevalier and Bryan M. Wong},
+  journal   = {Computer Physics Communications},
+  title     = {{HADOKEN}: An open-source software package for predicting electron confinement effects in various nanowire geometries and configurations},
+  year      = {2022},
+  month     = {may},
+  pages     = {108299},
+  volume    = {274},
+  comment   = {波動拳},
+  doi       = {10.1016/j.cpc.2022.108299},
+  publisher = {Elsevier {BV}},
+  url       = {https://doi.org/10.1016%2Fj.cpc.2022.108299},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

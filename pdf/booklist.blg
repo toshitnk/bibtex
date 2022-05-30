@@ -1,0 +1,48 @@
+This is pBibTeX, Version 0.99d-j0.33 (utf8.euc) (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: booklist.aux
+The style file: ytamsalpha.bst
+Database file #1: mybook.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 16 entries,
+            3364 wiz_defined-function locations,
+            775 strings with 6671 characters,
+and the built_in function-call counts, 6000 in all, are:
+= -- 502
+> -- 250
+< -- 14
++ -- 80
+- -- 79
+* -- 418
+:= -- 930
+add.period$ -- 16
+call.type$ -- 16
+change.case$ -- 130
+chr.to.int$ -- 16
+cite$ -- 16
+duplicate$ -- 342
+empty$ -- 633
+format.name$ -- 101
+if$ -- 1313
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 32
+newline$ -- 60
+num.names$ -- 46
+pop$ -- 206
+preamble$ -- 1
+purify$ -- 141
+quote$ -- 0
+skip$ -- 192
+stack$ -- 0
+substring$ -- 113
+swap$ -- 24
+text.length$ -- 14
+text.prefix$ -- 6
+top$ -- 0
+type$ -- 64
+warning$ -- 0
+while$ -- 40
+width$ -- 19
+write$ -- 185
+is.kanji.str$ -- 0
