@@ -699,16 +699,6 @@ lecture note},
   primaryclass  = {hep-th},
 }
 
-@Article{Smilga:2022xij,
-  author        = {Smilga, Andrei},
-  title         = {{Comments on noncommutative quantum mechanical systems associated with Lie algebras}},
-  year          = {2022},
-  month         = {4},
-  archiveprefix = {arXiv},
-  eprint        = {2204.08705},
-  primaryclass  = {hep-th},
-}
-
 @Article{Choi:2022zal,
   author        = {Choi, Yichul and Cordova, Clay and Hsin, Po-Shen and Lam, Ho Tat and Shao, Shu-Heng},
   title         = {{Non-invertible Condensation, Duality, and Triality Defects in 3+1 Dimensions}},
@@ -2147,4 +2137,13 @@ review},
   month         = {5},
   archiveprefix = {arXiv},
   eprint        = {2205.13818},
-  primaryclass  = 
+  primaryclass  = {hep-th},
+  reportnumber  = {KUNS-2926},
+}
+
+@Article{Akutagawa2020,
+  author        = {Akutagawa, Tetsuya and Hashimoto, Koji and Sasaki, Toshiaki and Watanabe, Ryota},
+  journal       = {JHEP},
+  title         = {{Out-of-time-order correlator in coupled harmonic oscillators}},
+  year          = {2020},
+ 

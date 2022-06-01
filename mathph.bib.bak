@@ -1052,4 +1052,65 @@ Master thesis.},
   primaryclass  = {math.PR},
 }
 
+@Misc{Yafaev2022,
+  author        = {Dmitri Yafaev},
+  title         = {Scattering Theory in Quantum Mechanical Problems},
+  year          = {2022},
+  archiveprefix = {arXiv},
+  comment       = {量子力学の散乱問題の数学},
+  eprint        = {2205.13204},
+  primaryclass  = {math-ph},
+}
+
+@Article{Elliott2022,
+  author        = {Elliott, Chris and Hahner, Fabian and Saberi, Ingmar},
+  title         = {{The derived pure spinor formalism as an equivalence of categories}},
+  year          = {2022},
+  month         = {5},
+  archiveprefix = {arXiv},
+  eprint        = {2205.14133},
+  primaryclass  = {math-ph},
+}
+
+@Misc{sakamoto2017invitation,
+  author        = {Reiho Sakamoto},
+  title         = {Invitation to the Bethe ansatz},
+  year          = {2017},
+  archiveprefix = {arXiv},
+  comment       = {arxivだけど日本語のBethe ansatzの話．},
+  eprint        = {1704.01650},
+  primaryclass  = {math.QA},
+}
+
+@Article{Dimakis2022,
+  author        = {Dimakis, N.},
+  title         = {{Hidden symmetries from distortions of the conformal structure}},
+  year          = {2022},
+  month         = {5},
+  archiveprefix = {arXiv},
+  eprint        = {2205.14973},
+  primaryclass  = {gr-qc},
+}
+
+@Misc{gaio2022categorical,
+  author        = {L. M. Gaio and B. F. Rizzuti},
+  title         = {A Categorical View on the Principle of Relativity},
+  year          = {2022},
+  archiveprefix = {arXiv},
+  comment       = {圏論で相対論をやってみたよ論文．},
+  eprint        = {2205.15408},
+  primaryclass  = {math-ph},
+}
+
+@Misc{vercleyen2022low,
+  author        = {Gert Vercleyen and Joost Slingerland},
+  title         = {On Low Rank Fusion Rings},
+  year          = {2022},
+  archiveprefix = {arXiv},
+  comment       = {fusion ringってなんだろう．
+fusion categoryとの関連．},
+  eprint        = {2205.15637},
+  primaryclass  = {math-ph},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
