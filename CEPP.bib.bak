@@ -1,0 +1,12 @@
+@Article{Berko:1980gg,
+  author  = {Berko, S. and Pendleton, H. N.},
+  journal = {Ann. Rev. Nucl. Part. Sci.},
+  title   = {{POSITRONIUM}},
+  year    = {1980},
+  pages   = {543--581},
+  volume  = {30},
+  doi     = {10.1146/annurev.ns.30.120180.002551},
+  file    = {:/home/usagi/arxiv/Berko1980.pdf:PDF},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
