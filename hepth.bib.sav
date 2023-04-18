@@ -5754,13 +5754,13 @@ Superconformalとsupergravity側からアプローチをする．},
   primaryclass  = {hep-th},
 }
 
-@Article{Braun:2023fqa,
-  author        = {Braun, Andreas P. and Sabag, Evyatar and Sacchi, Matteo and Schafer-Nameki, Sakura},
-  title         = {{$G_2$-Manifolds from 4d N=1 Theories, Part I: Domain Walls}},
+@Misc{braun2023g2manifolds,
+  author        = {Andreas P. Braun and Evyatar Sabag and Matteo Sacchi and Sakura Schafer-Nameki},
+  title         = {$G_2$-Manifolds from 4d N=1 Theories, Part I: Domain Walls},
   year          = {2023},
-  month         = {4},
   archiveprefix = {arXiv},
   eprint        = {2304.01193},
+  file          = {:/home/usagi/Documents/texworks/bibtex/pdf/2304.01193.pdf:PDF},
   primaryclass  = {hep-th},
 }
 

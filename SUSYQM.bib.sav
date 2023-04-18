@@ -1,0 +1,68 @@
+@Article{Bruce2020,
+  author        = {Bruce, Andrew James and Duplij, Steven},
+  journal       = {J. Math. Phys.},
+  title         = {{Double-Graded Supersymmetric Quantum Mechanics}},
+  year          = {2020},
+  number        = {6},
+  pages         = {063503},
+  volume        = {61},
+  archiveprefix = {arXiv},
+  comment       = {SUSYQMの$\mathbb{Z_{2}^{2}}$拡張の量子論．},
+  doi           = {10.1063/1.5118302},
+  eprint        = {1904.06975},
+  primaryclass  = {math-ph},
+}
+
+@Article{Doi2022,
+  author        = {Doi, S. and Aizawa, N.},
+  journal       = {Nucl. Phys. B},
+  title         = {{Comments of Z22-supersymmetry in superfield formalism}},
+  year          = {2022},
+  pages         = {115641},
+  volume        = {974},
+  archiveprefix = {arXiv},
+  comment       = {SUSYQMの$\mathbb{Z_{2}^{2}}$拡張の古典論．},
+  doi           = {10.1016/j.nuclphysb.2021.115641},
+  eprint        = {2109.14227},
+  primaryclass  = {math-ph},
+}
+
+@Article{Kac1977,
+  author  = {Kac, V. G.},
+  journal = {Adv. Math.},
+  title   = {{Lie Superalgebras}},
+  year    = {1977},
+  pages   = {8--96},
+  volume  = {26},
+  doi     = {10.1016/0001-8708(77)90017-2},
+}
+
+@Book{Smilga2020,
+  author    = {Smilga, A. V.},
+  publisher = {WSP},
+  title     = {{Differential Geometry through Supersymmetric Glasses}},
+  year      = {2020},
+  isbn      = {978-981-12-0677-1, 978-981-12-0679-5},
+}
+
+@Book{Sakamoto2012,
+  author    = {坂本 眞人},
+  publisher = {サイエンス社},
+  title     = {量子力学から超対称性へ : 超対称性のエッセンスを捉える},
+  year      = {2012},
+  number    = {. SGCライブラリ ; 96},
+  series    = {臨時別冊・数理科学},
+}
+
+@Article{Freedman:1990gd,
+  author       = {Freedman, Daniel Z. and Mende, Paul F.},
+  journal      = {Nucl. Phys. B},
+  title        = {{An Exactly Solvable $N$ Particle System in Supersymmetric Quantum Mechanics}},
+  year         = {1990},
+  pages        = {317--343},
+  volume       = {344},
+  doi          = {10.1016/0550-3213(90)90364-J},
+  reportnumber = {MIT-CTP-1834},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

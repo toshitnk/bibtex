@@ -2143,13 +2143,4 @@ review.},
   primaryclass  = {math.DG},
 }
 
-@Misc{Evans2023,
-  author        = {David E. Evans and Yasuyuki Kawahigashi},
-  title         = {Subfactors and Mathematical Physics},
-  year          = {2023},
-  archiveprefix = {arXiv},
-  eprint        = {2303.04459},
-  primaryclass  = {math-ph},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}

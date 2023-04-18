@@ -1,0 +1,67 @@
+@Article{Rittenberg:1978df,
+  author       = {Rittenberg, V. and Wyler, D.},
+  journal      = {J. Math. Phys.},
+  title        = {{Sequences of $Z$(2)$\oplus$ $Z$(2) graded lie algebras and superalgebras}},
+  year         = {1978},
+  pages        = {2193},
+  volume       = {19},
+  doi          = {10.1063/1.523552},
+  file         = {:pdf/RittenbergWyler78_2.pdf:PDF},
+  reportnumber = {COO-2232B-152},
+}
+
+@Article{Rittenberg:1978mr,
+  author       = {Rittenberg, V. and Wyler, D.},
+  journal      = {Nucl. Phys. B},
+  title        = {{Generalized superalgebras}},
+  year         = {1978},
+  pages        = {189--202},
+  volume       = {139},
+  doi          = {10.1016/0550-3213(78)90186-4},
+  file         = {:pdf/RittenbergWyler78.pdf:PDF},
+  reportnumber = {COO-2232B-150},
+}
+
+@Article{Scheunert:1978wn,
+  author       = {Scheunert, M.},
+  journal      = {J. Math. Phys.},
+  title        = {{GENERALIZED LIE ALGEBRAS}},
+  year         = {1979},
+  pages        = {712},
+  volume       = {20},
+  comment      = {color Lie algebra},
+  doi          = {10.1063/1.524113},
+  file         = {:pdf/Scheunert79.pdf:PDF},
+  reportnumber = {DIAS-TP-78-36},
+}
+
+@Article{Freedman:1990gd,
+  author       = {Freedman, Daniel Z. and Mende, Paul F.},
+  journal      = {Nucl. Phys. B},
+  title        = {{An Exactly Solvable $N$ Particle System in Supersymmetric Quantum Mechanics}},
+  year         = {1990},
+  pages        = {317--343},
+  volume       = {344},
+  comment      = {N粒子でSUSYQMを考えると縮退の様子が変わる．
+これをZ22でやってみるとどうなる？},
+  doi          = {10.1016/0550-3213(90)90364-J},
+  file         = {:pdf/FreedmanMende1990.pdf:PDF},
+  reportnumber = {MIT-CTP-1834},
+}
+
+@Misc{Kuznetsova:2008ir,
+  author  = {Kuznetsova, Zhanna},
+  title   = {Irreducible representations of supersymmetric quantum mechanics},
+  year    = {2008},
+  comment = {SUSY代数の既約表現の分類．},
+  doi     = {https://doi.org/10.1016/S0034-4877(08)80017-1},
+  file    = {:/home/usagi/Documents/texworks/bibtex/pdf/Kuznetsova07.pdf:PDF},
+  issn    = {0034-4877},
+  journal = {Reports on Mathematical Physics},
+  number  = {2},
+  pages   = {295-301},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0034487708800171},
+  volume  = {61},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
